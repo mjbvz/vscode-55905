@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "es6",
+        "baseUrl": "."
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
